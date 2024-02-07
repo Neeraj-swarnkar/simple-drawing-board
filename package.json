@@ -1,0 +1,28 @@
+{
+  "name": "simple-drawing-board",
+  "version": "1.0.0",
+  "description": "Simple Drawing Board",
+  "keywords": ["react", "Drawing", "Drawing Board", "Canvas", "Simple Drawing Board", "Simple Drawing Board in React", "Simple Drawing Board in TypeScript", "Drawing Board in React", "Drawing Board in TypeScript", "Drawing Board in JavaScript", "Drawing Board in HTML", "Drawing Board in CSS", "Drawing Board in SCSS", "Drawing Board in SASS", "Drawing Board in LESS", "Drawing Board in Stylus", "Drawing Board in PostCSS", "Drawing Board in TailwindCSS", "Drawing Board in Bootstrap", "Drawing Board in Material-UI", "Drawing Board in Ant Design", "Drawing Board in Chakra UI", "Drawing Board in React-Bootstrap", "Drawing Board in React-Material-UI", "Drawing Board in React-Ant Design", "Drawing Board in React-Chakra UI", "Drawing Board in React-React-Bootstrap", "Drawing Board in React-React-Material-UI", "Drawing Board in React-React-Ant Design", "Drawing Board in React-React-Chakra UI", "Drawing Board in React-React-React-Bootstrap", "Drawing Board in React-React-React-Material-UI", "Drawing Board in React-React-React-Ant Design", "Drawing Board in React-React-React-Chakra UI", "Drawing Board in React-React-React-React-Bootstrap", "Drawing Board in React-React-React-React-Material-UI", "Drawing Board in React-React-React-React-Ant Design", "Drawing Board in React-React-React-React-Chakra UI", "Drawing Board in React-React-React-React-React-Bootstrap", "Drawing Board in React-React-React-React-React-Material-UI", "Drawing Board in React-React-React-React-React-Ant Design", "Drawing Board in React-React-React-React-React-Chakra UI", "Drawing Board in React-React-React-React-React-React-Bootstrap", "Drawing Board in React-React-React-React-React-React-Material-UI", "Drawing Board in React-React-React-React-React-React-Ant Design", "Drawing Board in React-React-React-React-React-React-Chakra UI", "Drawing Board in React-React-React-React-React-React-React-Bootstrap", "Drawing Board in React-React-React-React-React-React-React-Material-UI", "Drawing Board in React"],
+  "main": "src/index.tsx",
+  "license": "MIT",
+  "author": "Neeraj Swarnkar",
+  "dependencies": {
+    "loader-utils": "3.2.1",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "^5.0.0",
+    "react-icons": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "18.2.38",
+    "@types/react-dom": "18.2.15",
+    "typescript": "4.4.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}

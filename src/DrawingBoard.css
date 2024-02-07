@@ -1,0 +1,72 @@
+:root {
+  --primary-color: #3498db; /* Blue */
+  --secondary-color: #2ecc71; /* Green */
+  --text-color: #333; /* Dark Gray */
+}
+
+body {
+  background-color: #ecf0f1; /* Light Gray */
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.board {
+  cursor: crosshair;
+  width: 80vw;
+  height: 50vh;
+  margin: 5vh 10vh 5vw;
+  border: 1px solid black !important;
+  border-radius: 10px;
+}
+header {
+  background-color: var(--primary-color);
+  color: #fff;
+  padding: 0.1rem;
+  text-align: center;
+}
+
+.footer {
+  background-color: var(--primary-color);
+  color: #fff;
+  padding: 0.1rem;
+  text-align: center;
+}
+
+.controls {
+  margin-top: 1rem;
+}
+
+.controls label,
+.controls select,
+.controls input,
+.controls button {
+  background-color: var(--secondary-color);
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1rem;
+  margin-right: 0.5rem;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.controls button:hover {
+  background-color: #2980b9; /* Darker Blue on hover */
+}
+
+.icon {
+  vertical-align: middle;
+  margin-right: 5px;
+}
+
+.social-icons a {
+  font-size: 24px;
+  color: #ecb4b4;
+  transition: color 0.3s ease-in-out;
+}
+
+.social-icons a:hover {
+  color: #f39c12; /* Yellow on hover */
+}
