@@ -3,6 +3,12 @@
 This is an interactive web-based drawing board application built using ReactJS. 
 The application allows users to draw three shapes using a mouse.
 
+## Demo
+
+Check out the video demo of the application.
+
+https://github.com/Neeraj-swarnkar/simple-drawing-board/assets/3918217/a2096fd8-dddb-4021-b1d0-cc522497974a
+
 ## Features
 
 - Drawing board implemented using `<svg>` for smooth and responsive drawing experience.
@@ -23,11 +29,6 @@ To run the application locally, follow these steps:
 - TypeScript
 - React
 - React Icons
-
-
-## Demo
-
-Coming Soon!! Check out the video demo of the application on the [demo page](demo.md).
 
 ## License
 
